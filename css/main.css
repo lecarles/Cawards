@@ -220,8 +220,13 @@ h4 {
 
 .contact100-form {
   width: 100%;
+  
+}
+
+.form-padding {
   padding: 50px 16vw 50px 16vw;
 }
+
 
 .contact100-form-title {
   display: block;
